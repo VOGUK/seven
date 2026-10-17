@@ -37,6 +37,6 @@ No build steps, no package managers, and no API keys required.
 ## 🛠️ Tech Stack
 
 *   **HTML5** (Structure)
-*   **CSS3** (Custom properties, grid, flexbox, keyframe animations)[cite: 1]
-*   **Vanilla JavaScript** (ES5/ES6 concepts, DOM manipulation, `Intl.DateTimeFormat` for time zone handling)[cite: 1]
-*   **Storage:** Window `localStorage` API[cite: 1]
+*   **CSS3** (Custom properties, grid, flexbox, keyframe animations)
+*   **Vanilla JavaScript** (ES5/ES6 concepts, DOM manipulation, `Intl.DateTimeFormat` for time zone handling)
+*   **Storage:** Window `localStorage` API
